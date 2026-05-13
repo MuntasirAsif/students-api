@@ -1,7 +1,7 @@
 env: "dev"
 storage_path: "storage/storage.db"
 http_server:
-  address: "localhost:8082"
+  address: "0.0.0.0:8083"
   read_timeout: 5s
   write_timeout: 5s
   idle_timeout: 5s
